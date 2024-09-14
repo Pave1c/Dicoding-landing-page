@@ -59,3 +59,14 @@ header.navbar-container .nav-list li:hover a {
   background-color: #425c77;
   color: white;
 }
+main {
+    flex: 1;
+
+    width: 100%;
+    max-width: 1200px;
+    margin-inline: auto;
+    padding: 2rem 4rem;
+
+    display: flex;
+    align-items: center;
+}
