@@ -236,3 +236,27 @@ main aside .social-media ul {
       
     }
     
+    footer {
+      background-color: #ffffff;
+      color: #575353;
+      padding: 20px;
+      
+  } 
+  .footer-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #746d6d;
+      margin: 0 auto;
+      font-size: 9px;
+  }
+  .footer-logo .copy {
+      height: auto; /* Menjaga proporsi gambar */
+  }
+  .footer-divider {
+    border: 0;
+    height: 1px;
+    background-color: rgb(143, 134, 134);
+    margin: 0;
+    flex-flow: column nowrap;
+}
